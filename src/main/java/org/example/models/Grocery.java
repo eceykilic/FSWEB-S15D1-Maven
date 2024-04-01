@@ -27,7 +27,7 @@ public class Grocery {
                     addItems(itemsToAdd);
                     break;
                 case 2:
-                    System.out.println("Cıkarılmasını istediğiniz elemanları giriniz.");
+                    System.out.println("Cıkarılmasını istediğinizz elemanları giriniz.");
                     String itemsToRemove = scanner.nextLine();
                     removeItems(itemsToRemove);
                     break;
